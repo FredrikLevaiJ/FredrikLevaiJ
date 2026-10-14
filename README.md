@@ -5,6 +5,8 @@ I'm currently a student at TUC Yrkeshögskola and learing to be a .NET developer
 I have previously studied programming at Lexicon Linköping, studying .NET aswell, but I liked it so much that I want to broaden my knowledge and finally starting to work with system development.
 I am currently looking for a LIA (Lärande i Arbete) that starts in September 2027.
 
+📫 Contact me on [LinkedIn](https://www.linkedin.com/in/fredrik-levai-jansson-954197301) or [Email](mailto:freddelj@gmail.com)
+
 <!--
 **FredrikLevaiJ/FredrikLevaiJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
